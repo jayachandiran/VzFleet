@@ -109,13 +109,10 @@
           </div>
 		   
           <div id="greybox" >
-             
-			 <!--  <img src="images/pic_1.jpg" width="164" height="167"></td><td> <img src="images/pic_2.jpg" width="164" height="167">
-			  <img src="images/pic_3.jpg" width="164" height="167"></td><td> <img src="images/pic_4.jpg" width="164" height="167">
-			   --><img src="images/pic_5.jpg" width="164" height="167"></td><td> <img src="images/pic_6.jpg" width="164" height="167">
-			  <img src="images/pic_7.jpg" width="164" height="167"></td><td> <img src="images/pic_8.jpg" width="164" height="167">
-			
-          </div>
+          <br />
+          <br />
+            <img src="images/customer-service.jpg" ></td><td> <img src="images/verizon_truck.jpg" >
+		  </div>
 		  
         </div>
       </div>

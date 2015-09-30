@@ -7,7 +7,7 @@
 
 <p>You can find how many vehicle is on road through my company to your city or closest to it</p>
                 <div id="features">
-                  <img src="images/truck.jpg" width="380" height="167">
+                  <img src="images/truck.jpg" width="400" height="250">
                 </div>
                 
                 <div id="newsletter">
