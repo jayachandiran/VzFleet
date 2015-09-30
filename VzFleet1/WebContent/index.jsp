@@ -44,9 +44,7 @@
 					 <h2 style="color:#4f7202;">TRANSPORT SERVICES</h2>
 				   </span>
 				 
-				   <!-- <p>
-					<a href="http://www.verizon.com">Click here for details</a>
-				  </p> -->
+				  
 		  </div>
 		  
           <div id="gbox">
