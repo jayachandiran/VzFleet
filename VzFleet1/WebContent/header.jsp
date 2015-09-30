@@ -28,9 +28,9 @@
           <div id="nav">
             <ul>
               <li><a href="home.jsp">HOME</a></li>
-              <li><a href="ritruck.jsp">FLEET INVENTROY</a></li>
+              <li><a href="ritruck.jsp">FLEET AVAILABILITY</a></li>
               <li><a href="status.jsp">STATUS</a></li>
-              <li><a href="towards.jsp">TOWARDS HERE</a></li>
+              <li><a href="towards.jsp">TRACK & TRACE</a></li>
               <li><a href="services.jsp">SERVICES</a></li>
               <% if(session.getAttribute("admin")!=null){
  out.print("<li><a href='contacted.jsp'>CONTACT US</a></li>");
@@ -54,7 +54,7 @@ out.print("<li><a href='contactus.jsp'>CONTACT US</a></li>");
 		  
 		  <div id="page-title">
 				  <span>
-					 <h2 style="color:#4f7202;">MOST CONVINIENT & RELIABLE</h2>
+					 <h2 style="color:#4f7202;">MOST CONVENIENT & RELIABLE</h2>
 					 <h2 style="color:#4f7202;">TRANSPORT SERVICES</h2>
 				   </span>
 				 

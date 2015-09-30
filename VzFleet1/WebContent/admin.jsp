@@ -88,11 +88,11 @@ request.setAttribute("notlogin_msg","Sorry,Please do Login first");
                   
                   <form name="myform">
                   <table><tr><td><font style="color: navy;">Branch:</font></td><td><select name="branch" id="select">
-					<option>Select a Branch</option>
-					<option>Ghaziabad</option>
-					<option>Kanpur</option>
-					<option>Delhi</option>
-					<option>Agra</option>
+					<option>Select Region</option>
+					<option>Dallas</option>
+					<option>Newyork</option>
+					<option>Texas</option>
+					<option>California</option>
 					</select></td></tr>
 					<tr><td><br></td></tr>
 					

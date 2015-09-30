@@ -40,17 +40,17 @@ request.setAttribute("notlogin_msg","Sorry,Please do Login first");
 	<tr><td>Mobile:</td><td><input type="text" name="mobile"/></td></tr>
 	<tr><td><br></td></tr>
 	<tr><td>Route-From:<select name="from" id="select">
-					<option>Select a Branch</option>
-					<option>Ghaziabad</option>
-					<option>Kanpur</option>
-					<option>Delhi</option>
-					<option>Agra</option>
+					<option>Select Region</option>
+					<option>Dallas</option>
+					<option>Newyork</option>
+					<option>Texas</option>
+					<option>California</option>
 					</select></td><td>To:<select name="to" id="select">
-					<option>Select a Branch</option>
-					<option>Ghaziabad</option>
-					<option>Kanpur</option>
-					<option>Delhi</option>
-					<option>Agra</option>
+					<option>Select Region</option>
+					<option>Dallas</option>
+					<option>Newyork</option>
+					<option>Texas</option>
+					<option>California</option>
 					</select></td></tr>
 	<tr><td>Status:</td><td><input type="text" name="status"/></td></tr>
 	<tr><td><br></td></tr>

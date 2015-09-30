@@ -3,6 +3,7 @@
             <div id="gbox-bg">
               <div id="gbox-grd">
   <h2>FLEET MANAGEMENT OPERATIONS</h2>
+  <div class="clear"> </div> 
                 <div id="newsletter">
                 
                   <%
@@ -24,11 +25,11 @@ request.setAttribute("notlogin_msg","Sorry,Please do Login first");
                 <form name="myform" action="asave.jsp">
 <table>
 <tr><td>Branch:</td><td><select name="branch">
-					<option>Select a Branch</option>
-					<option>Ghaziabad</option>
-					<option>Kanpur</option>
-					<option>Delhi</option>
-					<option>Agra</option>
+					<option>Select Region</option>
+					<option>Dallas</option>
+					<option>Newyork</option>
+					<option>Texas</option>
+					<option>California</option>
 					</select></td></tr>
 					<tr><td><br></td></tr>
 <tr><td>Username:  </td><td><input type="text" name="username"/></td></tr>

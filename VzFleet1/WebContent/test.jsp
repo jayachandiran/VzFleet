@@ -8,16 +8,16 @@
                 <!-- <div id="features">
                   <h2>FEATURED SERVICES</h2>
                   <ul>
-                    <li><a href="http://www.javatpoint.com">Free Core java tutorial</a></li>
-					<li><a href="http://www.javatpoint.com">Jsp tutorial</a></li>
-                    <li><a href="http://www.javatpoint.com">Free Android Tutorial</a></li>
-                    <li><a href="http://www.javatpoint.com">Struts and Hibernet Tutorial</a></li>
+                    <li><a href="http://www.verizon.com">Free Core java tutorial</a></li>
+					<li><a href="http://www.verizon.com">Jsp tutorial</a></li>
+                    <li><a href="http://www.verizon.com">Free Android Tutorial</a></li>
+                    <li><a href="http://www.verizon.com">Struts and Hibernet Tutorial</a></li>
                     
                   </ul>
                   <ul>
-				  	<li><a href="http://www.javatpoint.com">More Project</a></li>
+				  	<li><a href="http://www.verizon.com">More Project</a></li>
                     <li><a href="http://www.cstpoint.com">C,C++ Tutorial</a></li>
-					<li><a href="http://www.javatpoint.com/forum/">The forum</a></li>
+					<li><a href="http://www.verizon.com/forum/">The forum</a></li>
                     <li><a href="http://www.cstpoint.com">Html,Sql Tutorial</a></li>
                   </ul>
                   <div class="clear"> </div>

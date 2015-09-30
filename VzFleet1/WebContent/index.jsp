@@ -31,7 +31,7 @@
               <li><a href="home.jsp">HOME</a></li>
               <li><a href="ritruck.jsp">FLEET INVENTROY</a></li>
               <li><a href="status.jsp">STATUS</a></li>
-              <li><a href="towards.jsp">LOCATE TRUCK</a></li>
+              <li><a href="towards.jsp">TRACK & TRACE</a></li>
               <li><a href="services.jsp">SERVICES</a></li>
               <li><a href="contactus.jsp">CONTACT US</a></li>
             </ul>
@@ -40,12 +40,12 @@
 		  
 		  <div id="page-title">
 				  <span>
-					 <h2 style="color:#4f7202;">MOST CONVINIENT & RELIABLE</h2>
+					 <h2 style="color:#4f7202;">MOST CONVENIENT & RELIABLE</h2>
 					 <h2 style="color:#4f7202;">TRANSPORT SERVICES</h2>
 				   </span>
 				 
 				   <!-- <p>
-					<a href="http://www.javatpoint.com">Click here for details</a>
+					<a href="http://www.verizon.com">Click here for details</a>
 				  </p> -->
 		  </div>
 		  
@@ -60,16 +60,16 @@
                 <!-- <div id="features">
                   <h2>FEATURED SERVICES</h2>
                   <ul>
-                    <li><a href="http://www.javatpoint.com">Free Core java tutorial</a></li>
-					<li><a href="http://www.javatpoint.com">Jsp tutorial</a></li>
-                    <li><a href="http://www.javatpoint.com">Free Android Tutorial</a></li>
-                    <li><a href="http://www.javatpoint.com">Struts and Hibernet Tutorial</a></li>
+                    <li><a href="http://www.verizon.com">Free Core java tutorial</a></li>
+					<li><a href="http://www.verizon.com">Jsp tutorial</a></li>
+                    <li><a href="http://www.verizon.com">Free Android Tutorial</a></li>
+                    <li><a href="http://www.verizon.com">Struts and Hibernet Tutorial</a></li>
                     
                   </ul>
                   <ul>
-				  	<li><a href="http://www.javatpoint.com">More Project</a></li>
+				  	<li><a href="http://www.verizon.com">More Project</a></li>
                     <li><a href="http://www.cstpoint.com">C,C++ Tutorial</a></li>
-					<li><a href="http://www.javatpoint.com/forum/">The forum</a></li>
+					<li><a href="http://www.verizon.com/forum/">The forum</a></li>
                     <li><a href="http://www.cstpoint.com">Html,Sql Tutorial</a></li>
                   </ul>
                   <div class="clear"> </div>
@@ -93,11 +93,11 @@
                    %>
                   <form action="loginprocess.jsp" method="get" accept-charset="utf-8">
                    <select name="branch">
-                   <option >Select a Branch</option>
-                    <option>India</option>
-                    <option>America</option>
-					<!-- <option value="Delhi">Delhi</option>
-					<option value="Ghaziabad">Ghaziabad</option> -->
+                   <option>Select Region</option>
+					<option>Dallas</option>
+					<option>Newyork</option>
+					<option>Texas</option>
+					<option>California</option>
                     </select><br/>
                     Username:<input type="text" name="username"/>
                     Password:<input type="password" name="userpass"/>
