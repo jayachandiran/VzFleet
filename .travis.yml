@@ -1,8 +1,6 @@
-language:java
-jdk:
-	- openjdk8
+language: java
+jdk: openjdk8
 deploy:
-   edge: true
    provider: cloudfoundry
    username: hskramesh@gmail.com
    password: itsmyPivotal
