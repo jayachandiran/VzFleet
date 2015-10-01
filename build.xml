@@ -13,6 +13,10 @@
     <target name="clean">
         <delete dir="${build.dir}"/>
     </target>
+    
+    <target name="compile">
+     <echo message="Compiling source code"/>
+   </target>
 
     <target name="compile">
         <mkdir dir="${classes.dir}"/>
