@@ -5,7 +5,6 @@ services:
  - redis-server
 script: ant -buidlfile build.xml
 deploy:
-   edge: true
    provider: cloudfoundry
    username: hskramesh@gmail.com
    password: itsmyPivotal
